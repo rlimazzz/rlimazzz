@@ -1,12 +1,14 @@
 ### Hi i'm Ryan ✌😎
 
-- Languages : Python and C++
-- My currently goals is to learn with everyone!
+- Programming Languages : Python and C++
+- Languages : Portuguese and english(beginner)
+- I'm currently learning html/css!
 
 <div align="center">
   <a href="https://github.com/ryserk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=svictorhugop&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svictorhugop&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryserk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryserk&layout=compact&langs_count=7&theme=github_dark"/>
+    
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,5 +19,7 @@
  
 <div> 
   <a href = "mailto:ryangabryel2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:xfoo#6633"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
-  </div>
+  
+</div>
