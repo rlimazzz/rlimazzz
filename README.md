@@ -4,7 +4,7 @@
 - My currently goals is to learn with everyone!
 
 <div align="center">
-  <a href="https://github.com/svictorhugop">
+  <a href="https://github.com/ryserk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=svictorhugop&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svictorhugop&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
