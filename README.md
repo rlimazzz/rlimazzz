@@ -3,12 +3,11 @@
 - Programming Languages : Python, C/C++ and Rust
 - Languages : Portuguese(fluent) and english(intermediate)
 - I'm currently learning Rust!!
-- [darth-vader-im-ready](https://github.com/ryserk/ryserk/assets/85703424/053cc014-7f94-4aa9-b8a7-55ae3900835b)
 
 
 <div align="center">
   <a href="https://github.com/ryserk">
-  <img height= "300" alt = "Ryan-Vader" src="https://tenor.com/view/darth-vader-im-ready-lightsaber-star-wars-gif-15851238](https://github.com/ryserk/ryserk/assets/85703424/053cc014-7f94-4aa9-b8a7-55ae3900835b)">
+  [darth-vader-im-ready](https://github.com/ryserk/ryserk/assets/85703424/053cc014-7f94-4aa9-b8a7-55ae3900835b)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryserk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryserk&layout=compact&langs_count=7&theme=github_dark"/>
     
