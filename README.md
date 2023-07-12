@@ -1,10 +1,11 @@
 [coding-hello-world](https://github.com/ryserk/ryserk/assets/85703424/26292b06-0c11-4c02-aedf-af27c7512037)
 ### Hi i'm Ryan ✌!
+![coding-hello-world](https://github.com/ryserk/ryserk/assets/85703424/e5d8bb2c-8808-4024-bb13-8d27a939361f)
 
 - Programming Languages : Python, C/C++ and Rust
 - Languages : Portuguese(fluent) and english(intermediate)
 - I'm currently learning Rust!!
-
+![coding-hello-world](https://github.com/ryserk/ryserk/assets/85703424/e5d8bb2c-8808-4024-bb13-8d27a939361f)
 <div align="center">
   <a href="https://github.com/ryserk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryserk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
