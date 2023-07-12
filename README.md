@@ -1,8 +1,8 @@
-### Hi i'm Ryan ✌😎
+### Hi i'm Ryan ✌
 
-- Programming Languages : Python and C++
-- Languages : Portuguese and english(beginner)
-- I'm currently learning html/css!
+- Programming Languages : Python, C/C++ and Rust
+- Languages : Portuguese(fluent) and english(intermediate)
+- I'm currently learning Rust!
 
 <div align="center">
   <a href="https://github.com/ryserk">
