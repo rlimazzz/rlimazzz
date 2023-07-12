@@ -26,7 +26,7 @@
 <div> 
   <a href = "mailto:ryangabryel2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:xfoo#6633"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  ![darth-vader-im-ready](https://github.com/ryserk/ryserk/assets/85703424/5c9450a3-3ad6-4fa8-a506-ea1ec400cdeb)
 
   
 </div>
+![darth-vader-im-ready](https://github.com/ryserk/ryserk/assets/85703424/7b73db3a-7350-43a2-a7b3-9af051b8fff8)
