@@ -28,4 +28,3 @@
 
   
 </div>
-![darth-vader-im-ready](https://github.com/ryserk/ryserk/assets/85703424/7b73db3a-7350-43a2-a7b3-9af051b8fff8)
