@@ -2,7 +2,9 @@
 
 - Programming Languages : Python, C/C++ and Rust
 - Languages : Portuguese(fluent) and english(intermediate)
-- I'm currently learning Rust!
+- I'm currently learning Rust!!
+- [darth-vader-im-ready](https://github.com/ryserk/ryserk/assets/85703424/053cc014-7f94-4aa9-b8a7-55ae3900835b)
+
 
 <div align="center">
   <a href="https://github.com/ryserk">
