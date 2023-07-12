@@ -7,7 +7,6 @@
 
 <div align="center">
   <a href="https://github.com/ryserk">
-  [darth-vader-im-ready](https://github.com/ryserk/ryserk/assets/85703424/053cc014-7f94-4aa9-b8a7-55ae3900835b)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryserk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryserk&layout=compact&langs_count=7&theme=github_dark"/>
     
@@ -27,6 +26,7 @@
 <div> 
   <a href = "mailto:ryangabryel2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:xfoo#6633"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  
+  ![darth-vader-im-ready](https://github.com/ryserk/ryserk/assets/85703424/5c9450a3-3ad6-4fa8-a506-ea1ec400cdeb)
+
   
 </div>
