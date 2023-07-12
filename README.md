@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/ryserk">
-  <img height="300em" src="<iframe src="https://giphy.com/embed/4VUiK7uleZ7BcP21Sx" width="480" height="194" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-4VUiK7uleZ7BcP21Sx">via GIPHY</a></p>">
+  <iframe src="https://giphy.com/embed/4VUiK7uleZ7BcP21Sx" width="480" height="194" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-4VUiK7uleZ7BcP21Sx">via GIPHY</a></p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryserk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryserk&layout=compact&langs_count=7&theme=github_dark"/>
     
