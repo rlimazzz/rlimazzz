@@ -1,6 +1,6 @@
 ### Hi i'm Ryan ✌!
- 
-![coding-hello-world](https://github.com/ryserk/ryserk/assets/85703424/06b7db82-46ef-4b93-8a80-e96e876631ba)
+ ![programmer-programming](https://github.com/ryserk/ryserk/assets/85703424/467e42a0-6fd2-4416-8468-882ab287f119)
+
 
 - Programming Languages : Python, C/C++ and Rust
 - Languages : Portuguese(fluent) and english(intermediate)
