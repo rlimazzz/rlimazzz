@@ -5,7 +5,6 @@
 - Programming Languages : Python, C/C++ and Rust
 - Languages : Portuguese(native) and english(intermediate)
 - I'm currently learning HTML/CSS and Javascript
-- Code editor : I use neovim
 <div align="center">
   <a href="https://github.com/ryserk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryserk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
