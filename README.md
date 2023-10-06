@@ -1,5 +1,5 @@
 ### Hi i'm Ryan ✌!
- ![programmer-programming](https://github.com/ryserk/ryserk/assets/85703424/467e42a0-6fd2-4416-8468-882ab287f119)
+ ![programmer-programming](https://github.com/rlimazzz/rlimazzz/assets/85703424/467e42a0-6fd2-4416-8468-882ab287f119)
 
 
 - Programming Languages : Python, C/C++ and Rust
