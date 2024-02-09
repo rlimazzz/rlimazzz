@@ -3,7 +3,7 @@
 
 
 - Programming Languages : Python, C/C++ and Rust
-- Languages : Portuguese(native) and english(intermediate)
+- Languages : Portuguese(native) , english(intermediate), spanish(beginner)
 - I'm currently learning HTML/CSS and Javascript
 <div align="center">
  
