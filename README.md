@@ -2,7 +2,7 @@
  ![programmer-programming](https://github.com/ryserk/ryserk/assets/85703424/467e42a0-6fd2-4416-8468-882ab287f119)
 
 
-- Programming Languages : Python, C/C++, Rust, JavaScript, HTML/CSS
+- Programming Languages : Python, C/C++, Rust, JavaScript, HTML/CSS, Java
 - Languages : Portuguese(native) , english(intermediate), spanish(beginner)
 - Currently doing some competitive programming with my friends and learning algorithms, data strucutres, node.js, react, and everything that I find interesting!!!
 <div align="center">
