@@ -1,5 +1,6 @@
 ### Hi i'm Ryan ✌!
  ![programmer-programming](https://github.com/ryserk/ryserk/assets/85703424/467e42a0-6fd2-4416-8468-882ab287f119)
+ <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="320" src="https://giphy.com/embed/u2wg2uXJbHzkXkPphr/video" width="480"></iframe></div>
 
 
 - Programming Languages : Python, C/C++, Rust, JavaScript, HTML/CSS, Java
