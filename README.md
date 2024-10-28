@@ -5,7 +5,7 @@
 
 - Languages : Portuguese(native) , english(intermediate), spanish(beginner)
 - Currently doing some competitive programming with my friends and learning algorithms, data strucutres, node.js, react, and everything that I find interesting!!!
-- I'm using dual boot Lubuntu/Windows 10
+- I'm using dual boot endeavourOS/Windows 10
 <div align="center">
  
   <a href="https://github.com/rlimazzz">
