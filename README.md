@@ -1,7 +1,7 @@
 ### Hi i'm Ryan ✌!
  ![programmer-programming](https://github.com/ryserk/ryserk/assets/85703424/467e42a0-6fd2-4416-8468-882ab287f119)
 
-- Programming Languages : Python, C/C++, Rust, JavaScript, HTML/CSS, Java!
+- Programming Languages : Python, C/C++, Rust, JavaScript, HTML/CSS, Java, Typescript!
 
 - Languages : Portuguese(native) , english(intermediate), spanish(beginner)
 - Currently doing some competitive programming with my friends and learning algorithms, data strucutres, node.js, react, and everything that I find interesting!!!
@@ -25,6 +25,7 @@
   <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
  
           
   
