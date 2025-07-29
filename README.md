@@ -4,7 +4,7 @@
 - Programming Languages : Python, C/C++, Rust, JavaScript, HTML/CSS, Java, Typescript!
 - Currently working with Automations, AI and Data Engineering
 
-- Languages : Portuguese(native) , English(advanced), Spanish(beginner), Deutsch(beginner) 
+- Languages : 🇧🇷Portuguese(native) , 🇬🇧English(advanced), 🇪🇸Spanish(beginner), 🇩🇪Deutsch(beginner) 
 - Currently doing some competitive programming with my friends and learning algorithms, data strucutres, node.js, react, and everything that I find interesting!!!
 - I'm using dual boot endeavourOS/Windows 10
 <div align="center">
